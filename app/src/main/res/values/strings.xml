@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavGraph</string>
+
+    <string name="enter_name">Enter Name</string>
+    <string name="click_me">Click Me!</string>
+    <string name="welcome_string">Hello %s! Welcome to Nav Component!</string>
+    <string name="learn_string">Hey %s! Welcome to learning Nav Components</string>
+    <string name="learn">learn</string>
+</resources>
